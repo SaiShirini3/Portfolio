@@ -28,7 +28,7 @@ This project demonstrates my application of deep learning techniques for predict
 
 I employed advanced machine learning algorithms to develop a predictive model for anticipating the rise in COVID-19 cases, achieving an impressive accuracy rate of 88%.
 
-- [Link to Project](provide-link)
+- [Link to Project](https://github.com/SaiShirini3/Covid-19-Death-Prediction.git)
 
 
 ### Image Processing
