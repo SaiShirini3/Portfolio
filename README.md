@@ -21,7 +21,7 @@ Greetings! I'm Sai Shirini, a highly analytical individual and a Master's studen
 
 This project demonstrates my application of deep learning techniques for predicting action labels in videos. Employing various key-frame extraction methods, I focused on extracting pivotal frames to enhance the accuracy of the classification model.
 
-- [Link to Project](provide-link)
+- [Link to Project](https://github.com/SaiShirini3/Video-Classification-using-UCF-101-Dataset.git)
 
 
 ### COVID-19 Prediction 
