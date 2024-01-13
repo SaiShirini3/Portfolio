@@ -30,6 +30,12 @@ I employed advanced machine learning algorithms to develop a predictive model fo
 
 - [Link to Project](https://github.com/SaiShirini3/Covid-19-Death-Prediction.git)
 
+### Stock Price Prediction 
+
+I implemented an LSTM neural network for stock price prediction, utilizing deep learning to forecast prices based on historical data.
+
+- [Link to Project]()
+
 
 ### Image Processing
 
