@@ -23,6 +23,12 @@ This project demonstrates my application of deep learning techniques for predict
 
 - [Link to Project](https://github.com/SaiShirini3/Video-Classification-using-UCF-101-Dataset.git)
 
+### Twitter Sentiment Analysis
+
+This project showcases my adept application of deep learning methodologies, emphasizing the use of advanced techniques to enhance sentiment classification performance. Sentiment analysis was conducted on the Sentiment140 dataset employing neural networks, with a notable achievement of 0.769 accuracy utilizing Bidirectional LSTM. 
+
+- [Link to Project]()
+
 
 ### COVID-19 Prediction 
 
@@ -52,13 +58,15 @@ I worked on the design and implementation of an Arduino-based Smart Pill Box, in
 ## 💡 Skills
 - Languages: Python, R, SQL, Scala(Basics)
 - Machine Learning: Supervised/Unsupervised learning, Feature selection/extraction, Ensemble methods, Model evaluation/selection
-- Deep Learning: Feed Forward Networks, CNN, LSTM, GAN, NLP, CV
-- Frameworks: TensorFlow, PyTorch, Scikit-learn, OpenCV, NLTK
-- Data Science: Data preprocessing, Data mining, Exploratory data analysis
-- Others: PowerBI, Matlab, VSCode, Colab, Jupyter, MySQL, PostgreSQL, Hadoop, Spark
+- Deep Learning: Feed Forward Neural Networks, CNN, RNN, LSTM, GAN, Transformers
+- Frameworks: Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch, OpenCV, NLTK
+- Data Science: Data preprocessing, Data mining, Exploratory data analysis, Natural Language Processing, Computer Vision
+- Others: PowerBI, Matlab, VSCode, RStudio, Colab, Jupyter, MySQL, PostgreSQL, Hadoop, Spark
 
 ## 🏆 Achievements
 - Secured All India Rank 77 in GATE Mathematics'22
+- Secured All India Rank 554 in JAM Mathematics'22
+- Received Rs.1 lakh as merit scholar ship from Mahindra Ecole Centrale in 2018
 
 ## Updates
 This portfolio undergoes regular updates to showcase new projects, achievements, and certificates, reflecting my ongoing professional growth.
