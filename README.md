@@ -42,6 +42,11 @@ I implemented an LSTM neural network for stock price prediction, utilizing deep 
 
 - [Link to Project]()
 
+### Buffalo_Crime_Analysis_Classification
+
+In this project I Analyzing different types of incidents in Buffalo is crucial for understanding the city's safety landscape. Sorting and organizing incidents into groups can provide valuable insights for law enforcement and other safety-related organizations.
+
+- [Link to Project](https://github.com/SaiShirini3/Buffalo_Crime_Analysis_Classification)
 
 ### Image Processing
 
