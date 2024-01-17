@@ -54,11 +54,7 @@ In this project, I delved into the realm of image processing, exploring optimize
 
 - [Link to Project](provide-link)
 
-### IoT Enabled Smart Pill Box 
 
-I worked on the design and implementation of an Arduino-based Smart Pill Box, integrating IoT capabilities for medication monitoring, reminders, and automated reordering.
-
-- [Link to Project](provide-link)
 
 ## 💡 Skills
 - Languages: Python, R, SQL, Scala(Basics)
