@@ -40,7 +40,7 @@ I employed advanced machine learning algorithms to develop a predictive model fo
 
 I implemented an LSTM neural network for stock price prediction, utilizing deep learning to forecast prices based on historical data.
 
-- [Link to Project]()
+- [Link to Project](https://github.com/SaiShirini3/Stock_Price_Predictions.git)
 
 ### Buffalo_Crime_Analysis_Classification
 
