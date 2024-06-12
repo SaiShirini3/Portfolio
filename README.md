@@ -27,7 +27,7 @@ This project demonstrates my application of deep learning techniques for predict
 
 This project showcases my adept application of deep learning methodologies, emphasizing the use of advanced techniques to enhance sentiment classification performance. Sentiment analysis was conducted on the Sentiment140 dataset employing neural networks, with a notable achievement of 0.769 accuracy utilizing Bidirectional LSTM. 
 
-- [Link to Project]()
+- [Link to Project](https://github.com/SaiShirini3/Twitter-sentiment-analysis.git)
 
 
 ### COVID-19 Prediction 
